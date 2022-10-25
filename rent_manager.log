@@ -1,0 +1,13 @@
+2022-07-06 22:55:03,381 Starting new HTTPS connection (1): bobai.api.rentmanager.com:443
+2022-07-06 22:55:05,704 https://bobai.api.rentmanager.com:443 "POST /Authentication/AuthorizeUser HTTP/1.1" 200 110
+2022-07-06 22:55:05,704 Starting new HTTPS connection (1): bobai.api.rentmanager.com:443
+2022-07-06 22:55:08,510 https://bobai.api.rentmanager.com:443 "GET /Units/OnlineListings HTTP/1.1" 200 30254
+2022-07-06 22:55:08,572 Starting new HTTPS connection (1): bobai.api.rentmanager.com:443
+2022-07-06 22:55:10,125 https://bobai.api.rentmanager.com:443 "GET /Units/41/Search?embeds=PrimaryAddress,Amenities,MarketRent,Floor,UnitType&fields=PrimaryAddress,Amenities.Name,MarketRent.Amount,SquareFootage,MaxOccupancy,Floor.Name,UnitType.UnitTypeID HTTP/1.1" 200 989
+2022-07-06 22:55:10,148 Starting new HTTPS connection (1): bobai.api.rentmanager.com:443
+2022-07-06 22:55:11,709 https://bobai.api.rentmanager.com:443 "GET /Units/42/Search?embeds=PrimaryAddress,Amenities,MarketRent,Floor,UnitType&fields=PrimaryAddress,Amenities.Name,MarketRent.Amount,SquareFootage,MaxOccupancy,Floor.Name,UnitType.UnitTypeID HTTP/1.1" 200 947
+2022-07-06 22:55:11,720 Starting new HTTPS connection (1): bobai.api.rentmanager.com:443
+2022-07-06 22:55:13,188 https://bobai.api.rentmanager.com:443 "GET /Units/57/Search?embeds=PrimaryAddress,Amenities,MarketRent,Floor,UnitType&fields=PrimaryAddress,Amenities.Name,MarketRent.Amount,SquareFootage,MaxOccupancy,Floor.Name,UnitType.UnitTypeID HTTP/1.1" 200 992
+2022-07-06 22:55:13,188 Starting new HTTPS connection (1): bobai.api.rentmanager.com:443
+2022-07-06 22:55:14,657 https://bobai.api.rentmanager.com:443 "GET /Units/4/Search?embeds=PrimaryAddress,Amenities,MarketRent,Floor,UnitType&fields=PrimaryAddress,Amenities.Name,MarketRent.Amount,SquareFootage,MaxOccupancy,Floor.Name,UnitType.UnitTypeID HTTP/1.1" 200 790
+2022-07-06 22:55:14,672 Starting new HTTPS connection (1): bobai.api.rentmanager.com:443
